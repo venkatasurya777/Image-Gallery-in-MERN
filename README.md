@@ -1,4 +1,5 @@
-
+### Deployed Link for preview
+https://app.netlify.com/sites/vigorous-golick-7bb741/overview
 ### Preview
 ![Capture](https://user-images.githubusercontent.com/67712163/125895917-1f22344e-ae7e-4ac6-b217-b891b40ba0b6.PNG)
 ### Database
