@@ -1,5 +1,5 @@
 ### Deployed Link for preview
-https://app.netlify.com/sites/vigorous-golick-7bb741/overview
+https://vigorous-golick-7bb741.netlify.app/
 
 ### Preview
 
