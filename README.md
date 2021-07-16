@@ -1,6 +1,11 @@
 ### Deployed Link for preview
 https://app.netlify.com/sites/vigorous-golick-7bb741/overview
+
 ### Preview
+
+https://user-images.githubusercontent.com/67712163/125933430-a2d5d090-a854-4496-8f55-5722fcddf90f.mp4
+
+### Image Preview
 ![Capture](https://user-images.githubusercontent.com/67712163/125895917-1f22344e-ae7e-4ac6-b217-b891b40ba0b6.PNG)
 ### Database
 ![Capture3](https://user-images.githubusercontent.com/67712163/125895922-3ba9920f-8ef0-4cd7-8737-97188740590c.PNG)
